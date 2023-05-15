@@ -1,4 +1,4 @@
-const first_non_repeating_letter = str => {
+const firstNonRepeatingLetter = str => {
   const words = str.split('');
 
   const firstWord = words.reduce((acc, currWord, currIndex) => {
