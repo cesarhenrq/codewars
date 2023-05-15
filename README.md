@@ -18,7 +18,7 @@ Nome do desafio
 ├── enunciado.md
 ├── solucao.js
 ├── solucao.py
-└── solucao.java
+├── solucao.java
 
 
 ## Como Utilizar
